@@ -1,0 +1,80 @@
+Repeticion 1
+max. iterations: 100
+threads number: 1
+p = 10000000, seed = 1, n_threads = 1, max_iters = 100
+Execution time: 4620.691000 ms 
+Last 3 values of Y: 20.599513, 13.914781, 16.823709 
+Last 3 values of Y_avgs: 10.917307, 11.023606, 11.129905 
+
+Repeticion 2
+max. iterations: 100
+threads number: 1
+p = 10000000, seed = 1, n_threads = 1, max_iters = 100
+Execution time: 4711.429000 ms 
+Last 3 values of Y: 20.599513, 13.914781, 16.823709 
+Last 3 values of Y_avgs: 10.917307, 11.023606, 11.129905 
+
+Repeticion 3
+max. iterations: 100
+threads number: 1
+p = 10000000, seed = 1, n_threads = 1, max_iters = 100
+Execution time: 4649.377000 ms 
+Last 3 values of Y: 20.599513, 13.914781, 16.823709 
+Last 3 values of Y_avgs: 10.917307, 11.023606, 11.129905 
+
+Repeticion 4
+max. iterations: 100
+threads number: 1
+p = 10000000, seed = 1, n_threads = 1, max_iters = 100
+Execution time: 4637.624000 ms 
+Last 3 values of Y: 20.599513, 13.914781, 16.823709 
+Last 3 values of Y_avgs: 10.917307, 11.023606, 11.129905 
+
+Repeticion 5
+max. iterations: 100
+threads number: 1
+p = 10000000, seed = 1, n_threads = 1, max_iters = 100
+Execution time: 4629.957000 ms 
+Last 3 values of Y: 20.599513, 13.914781, 16.823709 
+Last 3 values of Y_avgs: 10.917307, 11.023606, 11.129905 
+
+Repeticion 6
+max. iterations: 100
+threads number: 1
+p = 10000000, seed = 1, n_threads = 1, max_iters = 100
+Execution time: 4715.981000 ms 
+Last 3 values of Y: 20.599513, 13.914781, 16.823709 
+Last 3 values of Y_avgs: 10.917307, 11.023606, 11.129905 
+
+Repeticion 7
+max. iterations: 100
+threads number: 1
+p = 10000000, seed = 1, n_threads = 1, max_iters = 100
+Execution time: 4710.899000 ms 
+Last 3 values of Y: 20.599513, 13.914781, 16.823709 
+Last 3 values of Y_avgs: 10.917307, 11.023606, 11.129905 
+
+Repeticion 8
+max. iterations: 100
+threads number: 1
+p = 10000000, seed = 1, n_threads = 1, max_iters = 100
+Execution time: 4576.485000 ms 
+Last 3 values of Y: 20.599513, 13.914781, 16.823709 
+Last 3 values of Y_avgs: 10.917307, 11.023606, 11.129905 
+
+Repeticion 9
+max. iterations: 100
+threads number: 1
+p = 10000000, seed = 1, n_threads = 1, max_iters = 100
+Execution time: 4632.638000 ms 
+Last 3 values of Y: 20.599513, 13.914781, 16.823709 
+Last 3 values of Y_avgs: 10.917307, 11.023606, 11.129905 
+
+Repeticion 10
+max. iterations: 100
+threads number: 1
+p = 10000000, seed = 1, n_threads = 1, max_iters = 100
+Execution time: 4697.473000 ms 
+Last 3 values of Y: 20.599513, 13.914781, 16.823709 
+Last 3 values of Y_avgs: 10.917307, 11.023606, 11.129905 
+
