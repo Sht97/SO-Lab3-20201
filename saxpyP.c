@@ -178,6 +178,7 @@ void* saxpy(void * arg){
 	int i;
 	double acc;
 	int it;
+	//se ejecutan todas las iteraciones
 	for(it=0;it<max_iters;it++){
 
 		acc=0;
@@ -185,9 +186,10 @@ void* saxpy(void * arg){
 			Y[i] = Y[i] + a * X[i];
 			acc += Y[i];
 		}
-		pthread_mutex_lock(&mutex);
+		//Esperar para poder calcular el promedio
+		pthread_mutex_lock(&mutex); //lock
 		Y_avgs[it] += (acc/p); //Critical section?
-		pthread_mutex_unlock(&mutex);
+		pthread_mutex_unlock(&mutex); //unlock
 	}
 
 
